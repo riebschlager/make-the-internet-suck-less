@@ -1,9 +1,3 @@
-# BYE COMMENTS
-127.0.0.1 disqus.com
-127.0.0.1 a.disqus.com
-127.0.0.1 a.disquscdn.com
-127.0.0.1 glitter.services.disqus.com
-
 # BYE FACEBOOK
 127.0.0.1 0-act.channel.facebook.com
 127.0.0.1 0-edge-chat.facebook.com

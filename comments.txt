@@ -1,0 +1,5 @@
+# BYE COMMENTS
+127.0.0.1 disqus.com
+127.0.0.1 a.disqus.com
+127.0.0.1 a.disquscdn.com
+127.0.0.1 glitter.services.disqus.com
