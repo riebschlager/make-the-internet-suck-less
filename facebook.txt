@@ -155,5 +155,3 @@
 127.0.0.1 www.login.facebook.com
 127.0.0.1 zh-cn.facebook.com
 127.0.0.1 zh-tw.facebook.com
-127.0.0.1 www.breitbart.com
-127.0.0.1 breitbart.com
